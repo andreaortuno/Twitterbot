@@ -1,0 +1,6 @@
+tweepy
+requests
+scikit-learn
+numpy
+scipy
+pickle
